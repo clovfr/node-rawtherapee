@@ -1,0 +1,15 @@
+{
+  "name": "rawtherapee",
+  "version": "1.0.0",
+  "description": "rawtherapee-cli wrapper to process RAW images in NodeJs",
+  "repository": "https://github.com/clovfr/node-rawtherapee",
+  "author": "Clovis Gauzy",
+  "license": "BSD-3",
+  "main": "rawtherapee.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "devDependencies": {
+    "standard": "*"
+  }
+}
