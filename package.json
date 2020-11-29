@@ -5,11 +5,5 @@
   "repository": "https://github.com/clovfr/node-rawtherapee",
   "author": "Clovis Gauzy",
   "license": "BSD-3",
-  "main": "rawtherapee.js",
-  "scripts": {
-    "test": "standard"
-  },
-  "devDependencies": {
-    "standard": "*"
-  }
+  "main": "rawtherapee.js"
 }
