@@ -173,3 +173,4 @@ const rawtherapee = (file, options = {}) => {
 }
 
 module.exports = rawtherapee
+module.exports.PP3 = require('./src/lib/pp3.js')
